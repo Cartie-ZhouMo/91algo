@@ -4,7 +4,7 @@
 - 遇到重复的元素 `读指针` 就继续前移。
 - 遇到不同的元素 `写指针` 就前移一步，写入那个元素。
 
-![26](../fig/26.png)
+![26](https://github.com/Cartie-ZhouMo/91algo/blob/master/fig/26.png)
 
 ### 代码
 
